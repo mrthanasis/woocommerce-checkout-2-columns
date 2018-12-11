@@ -1,0 +1,1 @@
+# woocommerce-checkout-2-columns
